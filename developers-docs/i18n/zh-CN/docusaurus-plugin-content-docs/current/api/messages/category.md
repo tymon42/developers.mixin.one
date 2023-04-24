@@ -78,4 +78,5 @@ Card forwarding can be prohibited by setting the `shareable` field to false. Thi
 
 <MsgCatTransfer />
 
+## Encrypted Messages
 <MsgEncrypt />
